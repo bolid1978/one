@@ -130,7 +130,7 @@ public class Analiz {
 //
 //
         //   System.out.println(gnom.allMApDate());
-        System.out.printf("");
+        System.out.printf("my cange");
 
     }
 }
